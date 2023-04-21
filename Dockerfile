@@ -13,5 +13,6 @@ EXPOSE 80
 
 COPY --from=build /CANY /CANY 
 
-CMD ["/CANY/serve"]
+
+CMD ["/CANY/serve", "--static=/CANY/public"]
 
