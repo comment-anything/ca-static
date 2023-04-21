@@ -4,4 +4,4 @@ headless: true
 image: CA_Large.png
 ---
 
-The browser extenstion for commenting the internet.
+The browser extension for commenting the internet.

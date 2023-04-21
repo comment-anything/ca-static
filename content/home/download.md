@@ -4,7 +4,7 @@ image: "aboutDebug.png"
 weight: 12
 ---
 
-Comment Anywhere is currently alpha testing. It is not available on the extension store yet, but the extension can be downloaded manually and comments can be viewed posted.
+Comment Anywhere is currently *alpha testing*. It is not available on the extension store yet, but the extension can be downloaded manually and comments can be viewed and posted.
 
 ## [Download Now](./home/ca.zip){.dl}
 
