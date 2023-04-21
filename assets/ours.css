@@ -1,0 +1,23 @@
+#download-nowhomecazip a{
+    color: lightblue;
+    text-decoration: underline;
+    font-size: 42px;
+    animation-name: Anim;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+}
+
+#download-nowhomecazip a:hover {
+    color: antiquewhite;
+}
+
+@keyframes Anim {
+    25% {
+        transform: rotate(2deg);
+    }
+    75% {
+        transform: rotate(-2deg);
+    }
+}

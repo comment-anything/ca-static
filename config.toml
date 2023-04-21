@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Comment Anywhere'
+theme = 'introduction'
+
+[params]
+    themeStyle = "dark"
+
+customCss = [ "ours.css" ]
+
+
+
