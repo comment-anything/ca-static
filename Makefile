@@ -6,7 +6,6 @@ build.static.image:
 create.static.container:
 	docker run -t --name ca-static -p 80:80 -d ca-static-img
 
-
 stop.static.container:
 	docker stop ca-static
 
@@ -14,7 +13,7 @@ start.static.container:
 	docker start ca-static
 
 rm.static.container:
-	docker rm ca-statc --force
+	docker rm ca-static --force
 
 hugo.build:
 	hugo
